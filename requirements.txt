@@ -1,0 +1,4 @@
+# Kütüphane sekmesini denemek için örnek liste (şimdilik sadece listelenir, kurulmaz)
+requests==2.31.0
+telethon>=1.36
+aiohttp>=3.9
